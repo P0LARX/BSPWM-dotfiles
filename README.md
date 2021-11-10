@@ -1,2 +1,2 @@
 # BSPWM-dotfiles
-dot files I used for arch config with bspwm
+Dot files I used for arch config with bspwm
